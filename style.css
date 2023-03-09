@@ -1,0 +1,74 @@
+html {
+	background-image: url(fon2.png);
+}
+h1 {
+	color: magenta;
+	font-family: segoe script;
+	font-size: 30px;
+	text-align: center;
+	}
+a {
+	text-decoration: none;
+	color: magenta;
+	}	
+	
+hr {
+	height: 15px;
+	background: MediumOrchid;
+	border: none;
+}
+
+p {
+	text-align: center;
+	font-size: 30px;
+	color: MediumOrchid;
+}
+
+.menu1{	
+	font: calibri;
+	word-spacing:75px;
+	font-size: 33px;
+	text-align: center;	
+}	
+
+table {
+	color: MediumOrchid;
+}
+
+.title1 {
+	font-size: 60px;
+	font-family: fantasy;
+	text-align: center;
+}
+.strelka {
+	width: 150px ;
+	height: 70px;
+}
+
+.TdLeft {
+	padding: 25px;
+	text-align: left;
+	font-size: 25px;
+}
+
+.TextTeamsAndFhotosAndGames {
+	width: 100%;
+	text-align: center;
+	font-size: 30px;
+	border-spacing: 50px;
+}	
+
+img {
+	width: 150px;
+	height: 150px;
+}
+
+.photos {
+	width: 600px;
+	height: 400px;
+}
+
+.PhotosGames {
+	width: 300px;
+	height: 300px;
+}
